@@ -1,5 +1,5 @@
 {
-    "name": "perftools/xhgui",
+    "name": "mstyles/xhgui",
     "description": "A web based interface for viewing profile data collected by XHProf.",
     "version": "0.1",
     "license": "MIT",
